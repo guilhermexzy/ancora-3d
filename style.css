@@ -1,0 +1,19 @@
+body {
+    background-color: red;
+}
+
+h1 {
+    text-align: center;
+    border-color: black;
+    border-width: 20px;
+    border-style: ridge;
+    background-color: red;
+}
+
+h2 {
+    text-align: center;
+    border-color:black;
+    border-width: 20px;
+    border-style: ridge;
+    background-color: red;
+}
